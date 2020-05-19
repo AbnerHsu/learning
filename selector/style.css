@@ -29,3 +29,7 @@ li {
 .webtext {
     border: 5px green dashed ;
 }
+
+.active {
+    color: red;
+}
